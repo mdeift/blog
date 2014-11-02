@@ -1,5 +1,7 @@
 == README
-!https://coveralls.io/repos/mdeift/blog/badge.png?branch=master(Coverage Status)!:https://coveralls.io/r/mdeift/blog?branch=master
+
+https://coveralls.io/repos/mdeift/blog/badge.png?branch=master
+https://coveralls.io/r/mdeift/blog?branch=master
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
